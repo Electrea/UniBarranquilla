@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desastre Naturales</title>
+    <style>
+		body {
+			background-color: #7EDC67;
+			margin: 0;
+			padding: 0;
+		}
+		
+		header {
+			background-color: #16cdff;
+			color: #090A00;
+			padding: 20px;
+		}
+		
+		nav {
+			background-color: #c2ed00;
+			color: #FFF;
+			padding: 10px;
+		}
+		
+		main {
+			padding: 20px;
+		}
+		
+		footer {
+			background-color: #333;
+			color: #FFF;
+			padding: 10px;
+			margin-top: 20px;
+		}
+	</style>
+</head>
+<body>
+    <header>
+		<h1>Desastre Naturales</h1>
+	</header>
+    <nav>
+
+		<ul>
+			<li><a href="Inicio.html">Inicio</a></li>
+			<Li><a href="TiposDeDesastres.html">Tipos de Desastres</a></Li>
+            <Li><a href="Bibliografia.html">Bibliografia</a></Li>
+		</ul>
+	</nav>
+    <h1>DEfinicion de Desastres Naturales</h1>
+    
+    <p>Se le llama desastres naturales a una serie de fenómenos de la naturaleza de gran intensidad
+        que ponen en peligro la vida humana. Los desastres naturales solo reciben este nombre cuando un fenómeno afecta 
+        sensiblemente a una población en condiciones de vulnerabilidad.
+        Esto quiere decir que no todos los fenómenos de la naturaleza son considerados desastres, 
+        sino solo aquellos que tienen una incidencia para las personas. Por ejemplo, 
+        si un terremoto cobra la vida de personas y/o destruye la ciudad, es un desastre natural.
+        Pero si un temblor no deja daños o víctimas que lamentar, simplemente es un fenómeno natural.
+    </p>
+  
+    <h2>
+        Clasificacion de desastres naturales
+    </h2>
+    <br>
+    <ol>Meteorológicos o atmosféricos: provocados por los fenómenos climáticos, atmosféricos o meteorológicos. 
+    Por ejemplo: los huracanes y las tormentas.</ol>
+    <div style="text-align:center;">
+        <img src="Imgenes\Hucaran.jpg"> 
+      </div>
+    <ol>Geofísicos: originados por los movimientos de la corteza y superficie terrestre. Por ejemplo, los terremotos y las erupciones volcánicas.
+    </ol>
+    <div style="text-align:center;">
+        <img src="Imgenes\Volcan.jpg"> 
+      </div>
+    <ol>Los desastres hidrológicos: se definen por el comportamiento descontrolado de las masas de agua. 
+        Son consecuencia de otros fenómenos, como los atmosféricos y geofísicos. Por ejemplo: las inundaciones.
+    </ol>
+    <div style="text-align:center;">
+        <img src="Imgenes\inundacion.jpg">
+    </div>
+    <ol>Biológicos: producidos por bacterias, virus o parásitos que transmiten enfermedades 
+        graves de alto contagio que se convierten en epidemias o pandemias.
+    </ol>
+    <div style="text-align:center;">
+        <img src="Imgenes\epidemia.jpg">
+    </div>
+    <footer>
+		<p>Hecho por Jorge Manotas y Dylan Molina</p>
+        <div style="text-align:center;">
+            <img src="Imgenes\iu.jpg"> 
+          </div>
+	</footer>
+    </body>
+</html>
